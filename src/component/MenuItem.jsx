@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import React from 'react';
 
 const MenuItem = ({title, address, Icon}) => {
     return (
