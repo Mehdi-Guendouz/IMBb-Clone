@@ -2,7 +2,7 @@
 
 const About = () => {
     return (
-        <div className="max-w-6xl mx-auto space-y-4">
+        <div className="max-w-6xl mx-auto space-y-4 p-4">
             <h1 className="font-medium text-amber-600 text-2xl ">About</h1>
             <p className="">
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
