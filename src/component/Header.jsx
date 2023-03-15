@@ -15,7 +15,7 @@ const Header = () => {
                 <DarkModeSwitch />
                 <Link href={"/"}>
                     <h2 className='text-2xl'>
-                        <span className='font-bold bg-amber-500 px-2 py-1 rounded-lg mr-1'>IMDb</span>
+                        <span className='font-bold bg-amber-500 px-2 py-1 rounded-lg mr-1'>IMDG</span>
                         <span className='text-xl hidden sm:inline'>Clone</span>
                     </h2>
                 </Link>
